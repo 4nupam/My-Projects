@@ -1,0 +1,212 @@
+{
+    "projects": {
+        "mobile": [
+            {
+                "name": "Mobile App (Frontend Only)",
+                "url": "https://github.com/Anupam-Devnexus/mobile_app",
+                "description": "An experimental mobile application focused on mastering native UI development and frontend-only state management. The project emphasizes component architecture, UI flows, and state handling while continuously evolving through learning and iteration.",
+                "techStack": [
+                    "React Native",
+                    "JavaScript",
+                    "State Management",
+                    "Frontend Architecture"
+                ]
+            }
+        ],
+        "websites": [
+            {
+                "name": "Mastersaab Education Platform",
+                "url": "https://mastersaab.co.in/",
+                "description": "A full-scale education platform where users can create profiles, attempt tests, access notes and previous-year questions, read blogs, and track performance analytics. Real-time notifications enhance engagement and the overall learning experience.",
+                "techStack": [
+                    "React",
+                    "Vite",
+                    "Zustand",
+                    "Tailwind CSS",
+                    "Socket.io",
+                    "REST APIs"
+                ]
+            },
+            {
+                "name": "Eden Aqua (E-commerce)",
+                "url": "https://eden-aqua.vercel.app",
+                "description": "A sample e-commerce solution for a water supply business featuring payment integration, backend connectivity, product management, and complete order workflows.",
+                "techStack": [
+                    "React",
+                    "Zustand",
+                    "Tailwind CSS",
+                    "Vite",
+                    "Payment Gateway",
+                    "Backend Integration"
+                ]
+            },
+            {
+                "name": "Cervino Ceramix",
+                "url": "https://cervino-ceramix.vercel.app/",
+                "description": "A client-facing website for the bricks industry targeting western markets. Includes optimized product rendering, inquiry workflows, blogs, media pages, and authenticated user profiles.",
+                "techStack": [
+                    "React",
+                    "Zustand",
+                    "Tailwind CSS",
+                    "Performance Optimization",
+                    "SEO"
+                ]
+            },
+            {
+                "name": "Orbexa (Full Stack)",
+                "url": "https://web-orbexa-live.vercel.app/",
+                "description": "A full-stack business website built with Supabase, featuring inquiry forms, backend data handling, authentication, and scalable frontend architecture.",
+                "techStack": [
+                    "React",
+                    "Vite",
+                    "Tailwind CSS",
+                    "Supabase",
+                    "Authentication"
+                ]
+            },
+            {
+                "name": "Palghar Real Estate",
+                "url": "https://palghar-front-end.vercel.app",
+                "description": "A real estate client website enabling users to explore projects, browse media, search properties by location, and submit inquiries.",
+                "techStack": [
+                    "React",
+                    "Tailwind CSS",
+                    "Search & Filters",
+                    "Client-Focused UI"
+                ]
+            }
+        ],
+        "pwa": [
+            {
+                "name": "Restaurant PWA",
+                "url": "https://pwa-test-4-tau.vercel.app/",
+                "description": "A progressive web application for restaurant services with fast loading, offline support, and optimized state management.",
+                "techStack": [
+                    "React",
+                    "Vite",
+                    "Zustand",
+                    "Tailwind CSS",
+                    "PWA"
+                ]
+            },
+            {
+                "name": "Advanced Restaurant PWA",
+                "url": "https://pwa-testing-sigma.vercel.app/",
+                "description": "A production-grade PWA with offline functionality, notifications, and well-structured component architecture focused on performance and scalability.",
+                "techStack": [
+                    "React",
+                    "PWA",
+                    "Service Workers",
+                    "Zustand",
+                    "Tailwind CSS"
+                ]
+            }
+        ],
+        "dashboards": [
+            {
+                "name": "Meta Campaign Dashboard",
+                "url": "https://meta-testing-3.vercel.app",
+                "description": "A marketing analytics dashboard integrating Facebook campaigns, manual sales tracking, sub-user management, Google appointments, and detailed sales visualizations.",
+                "techStack": [
+                    "React",
+                    "Charts & Graphs",
+                    "API Integration",
+                    "Role Management"
+                ]
+            },
+            {
+                "name": "Mastersaab Admin Dashboard",
+                "url": "https://dashboard.mastersaab.co.in/",
+                "description": "An admin dashboard to manage the education platform with full CRUD operations, role-based access control, and content moderation.",
+                "techStack": [
+                    "React",
+                    "Zustand",
+                    "RBAC",
+                    "CRUD Operations"
+                ]
+            },
+            {
+                "name": "Retailer Dashboard",
+                "url": "https://github.com/4nupam/RetailerDashboard",
+                "description": "A retailer-focused dashboard providing essential management features with scalable architecture ready for backend integration.",
+                "techStack": [
+                    "React",
+                    "Dashboard Architecture",
+                    "State Management"
+                ]
+            },
+            {
+                "name": "Call Center CRM",
+                "url": "https://customer-crm-vert.vercel.app/",
+                "description": "A CRM system for call centers with multi-role authentication, protected routes, and state persistence using local storage.",
+                "techStack": [
+                    "React",
+                    "Zustand",
+                    "LocalStorage",
+                    "Protected Routes",
+                    "Tailwind CSS"
+                ]
+            },
+            {
+                "name": "Retailer Web Dashboard",
+                "url": "https://retailer-web.vercel.app/",
+                "description": "A dashboard built with mock data to simulate real-world retailer workflows including reviews, approvals, rejections, and filtering systems.",
+                "techStack": [
+                    "React",
+                    "Vite",
+                    "Tailwind CSS",
+                    "LocalStorage",
+                    "Dashboard UX"
+                ]
+            }
+        ],
+        "freelance": [
+            {
+                "name": "Telmi Mobile App Bug Fix",
+                "url": "https://github.com/architdevnexus/telmi",
+                "description": "A freelance mobile project focused on debugging and fixing production issues using modern AI-assisted development workflows.",
+                "techStack": [
+                    "React Native",
+                    "Debugging",
+                    "AI Tools",
+                    "Copilot",
+                    "Gemini"
+                ]
+            }
+        ],
+        "uiSamples": [
+            {
+                "name": "Single Page UI Design",
+                "url": "http://anon-ten.vercel.app/",
+                "description": "A pixel-perfect single-page UI designed and developed for a beauty and women-centric product brand.",
+                "techStack": [
+                    "HTML",
+                    "CSS",
+                    "Responsive Design",
+                    "UI/UX"
+                ]
+            },
+            {
+                "name": "Sneker Footwear UI",
+                "url": "https://sneker.vercel.app/",
+                "description": "A branded UI project for a footwear business showcasing products with filtering and clean visual hierarchy.",
+                "techStack": [
+                    "React",
+                    "Tailwind CSS",
+                    "Product UI",
+                    "Branding"
+                ]
+            },
+            {
+                "name": "VR Model UI",
+                "url": "https://vr-model.vercel.app/",
+                "description": "A UI-focused project delivering a pixel-perfect design without state management, emphasizing layout precision and visual consistency.",
+                "techStack": [
+                    "React",
+                    "CSS",
+                    "UI Development"
+                ]
+            }
+        ]
+    }
+}

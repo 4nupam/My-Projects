@@ -1,0 +1,90 @@
+{
+  "profile": {
+    "name": "Anupam Upadhyay",
+    "title": "Frontend Engineer (React)",
+    "personalBrandStatement": "Frontend Engineer specializing in React, focused on building scalable, high-performance web applications with clean architecture and exceptional user experience.",
+    "summary": "I am a Frontend Engineer with 3+ years of experience in React and modern JavaScript, delivering production-grade web applications across dashboards, PWAs, games, and desktop platforms. I focus on clean architecture, maintainable code, and performance optimization. I collaborate closely with product and design teams to translate complex requirements into intuitive, scalable user interfaces.",
+    "media": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/4nupam"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/anupam-upadhyay-504a1b208/"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Devnexus Solutions",
+        "term": "May 2025 - January 2026"
+      },
+      {
+        "name": "Mappasaurus",
+        "term": "August 2024 - May 2025"
+      },
+      {
+        "name": "Wijungle",
+        "term": "July 2023 - June 2024"
+      },
+      {
+        "name": "VenturePact",
+        "term": "Jan 2023 - June 2023"
+      }
+    ]
+  },
+
+  "skills": {
+    "frontend": {
+      "languages": ["JavaScript (ES6+)", "HTML5", "CSS3"],
+      "frameworks": ["React.js", "Next.js"],
+      "styling": ["Tailwind CSS", "Responsive Design"],
+      "stateManagement": ["Zustand", "Redux", "Context API"],
+      "uiUxAndAnimation": ["Framer Motion", "Swiper.js", "Figma"],
+      "performanceAndArchitecture": ["Code Splitting", "Lazy Loading", "PWA Development", "Clean Architecture", "Reusable Component Design"]
+    },
+    "toolingAndWorkflow": {
+      "buildTools": ["Vite", "Webpack"],
+      "codeQuality": ["ESLint", "Prettier"],
+      "versionControl": ["Git", "GitHub"],
+      "editor": ["VS Code"]
+    },
+    "backendAndIntegrations": {
+      "databasesAndAuth": ["Supabase", "Firebase Auth", "Firestore", "Realtime Database"],
+      "apis": ["REST APIs"]
+    },
+    "deploymentAndDevOps": {
+      "platforms": ["Vercel", "Netlify", "Render"],
+      "ciCd": ["GitHub Actions"]
+    },
+    "otherTools": ["Electron (Desktop Applications)", "Telegram Bot API", "AI APIs (OpenAI, Copilot)"]
+  },
+
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "degree": "Bachelor of Technology (BTech), Computer Science",
+      "term": "Jun 2019 - Mar 2023",
+      "grade": "7.0 CGPA"
+    }
+  ],
+
+  "certificates": [
+    {
+      "name": "Client Testimonial For Examon Education",
+      "link": "https://www.linkedin.com/in/anupam-upadhyay-504a1b208/overlay/1768021748185/single-media-viewer/?type=IMAGE&profileId=ACoAADTVFhQB6TVHB3sNqFPF3JplP5oqaw_BoP0"
+    },
+    {
+      "name": "Namaste React by Akshay Saini",
+      "link": "https://www.linkedin.com/in/anupam-upadhyay-504a1b208/overlay/1765863605907/single-media-viewer?type=IMAGE&profileId=ACoAADTVFhQB6TVHB3sNqFPF3JplP5oqaw_BoP0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BobwGBRNbQiGyak2%2F3iqdfg%3D%3D"
+    },
+    {
+      "name": "DSA From Geeks for Geeks",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:6839976909175062528?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6839976909175062528%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BobwGBRNbQiGyak2%2F3iqdfg%3D%3D"
+    },
+    {
+      "name": "C++ from Udemy",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:6839976985200992256?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6839976985200992256%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BobwGBRNbQiGyak2%2F3iqdfg%3D%3D"
+    }
+  ]
+}
