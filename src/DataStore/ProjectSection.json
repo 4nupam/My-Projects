@@ -172,7 +172,21 @@
                     "Copilot",
                     "Gemini"
                 ]
-            }
+            },
+            {
+        "name": "Nuptials & Co",
+        "url": "https://www.nuptialsandco.com",
+        "description": "A freelance event management platform built for a wedding and events company, enabling seamless showcasing of services, event portfolios, and client engagement. The project focuses on performance, scalability, and modern full-stack architecture.",
+        "techStack": [
+            "Next.js",
+            "TypeScript",
+            "Supabase",
+            "PostgreSQL",
+            "Server Actions",
+            "Authentication",
+            "Responsive UI"
+        ]
+    }
         ],
         "uiSamples": [
             {
@@ -209,4 +223,5 @@
             }
         ]
     }
+
 }
