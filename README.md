@@ -1,4 +1,5 @@
-<img width="1327" height="745" alt="Screenshot 2026-01-12 at 6 41 44 PM" src="https://github.com/user-attachments/assets/eee72e28-57a2-4caf-8455-986c3ed1c7f1" />
+<img width="1470" height="824" alt="Screenshot 2026-05-24 at 5 16 04 AM" src="https://github.com/user-attachments/assets/37135e34-b7d4-412e-9b91-3d019b4b9f49" />
+
 
 # 🧑‍💻 Personal Portfolio (CV-Style) – React + Vite
 
