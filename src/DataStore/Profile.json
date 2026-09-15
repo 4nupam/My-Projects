@@ -1,9 +1,56 @@
 {
   "profile": {
     "name": "Anupam Upadhyay",
-    "title": "Frontend Engineer (React)",
-    "personalBrandStatement": "Frontend Engineer specializing in React, focused on building scalable, high-performance web applications with clean architecture and exceptional user experience.",
-    "summary": "I am a Frontend Engineer with 3+ years of experience in React and modern JavaScript, delivering production-grade web applications across dashboards, PWAs, games, and desktop platforms. I focus on clean architecture, maintainable code, and performance optimization. I collaborate closely with product and design teams to translate complex requirements into intuitive, scalable user interfaces.",
+    "title": "Frontend Engineer (React) | Founder & Product Engineer",
+    "personalBrandStatement": "Frontend Engineer specializing in React, focused on building scalable, high-performance web applications with clean architecture and exceptional user experience. Founder and product engineer of VAK, an AI-powered personal assistant, with hands-on experience building and evolving products from concept to production.",
+    "summary": "I am a Frontend Engineer with 3+ years of experience in React and modern JavaScript, delivering production-grade web applications across dashboards, PWAs, games, desktop platforms, and AI-powered products. I focus on clean architecture, maintainable code, reusable component design, and performance optimization. Alongside client and professional projects, I am building VAK, an AI-powered personal assistant that combines conversational AI, persona-based interactions, voice input, and screenshot-based capabilities. As a product-focused engineer and founder, I work across product ideation, frontend architecture, user experience, integrations, and continuous iteration. I collaborate closely with product and design teams to translate complex requirements into intuitive, scalable user interfaces.",
+    
+    "currentFocus": [
+      "Frontend Engineering",
+      "React.js",
+      "Next.js",
+      "AI Product Development",
+      "Product Engineering",
+      "Performance Optimization",
+      "Scalable Frontend Architecture",
+      "User Experience"
+    ],
+
+    "founder": {
+      "role": "Founder & Product Engineer",
+      "product": "VAK",
+      "description": "Building VAK, an AI-powered personal assistant designed to provide intelligent, personalized, and interactive assistance. VAK is evolving from a mobile-focused application into a broader web-based AI product with persona-based conversations, voice interaction, screenshot capabilities, and a premium experience for extended AI usage.",
+      "responsibilities": [
+        "Product Ideation & Development",
+        "Frontend Architecture",
+        "AI Integration",
+        "User Experience Design",
+        "Feature Development",
+        "Performance Optimization",
+        "Product Iteration",
+        "Web Platform Development"
+      ]
+    },
+
+    "recentExperience": {
+      "company": "Devnexus Solutions",
+      "role": "Frontend Engineer",
+      "term": "May 2025 - January 2026",
+      "description": "Worked on production-grade frontend applications using React and modern JavaScript, focusing on scalable component architecture, responsive interfaces, state management, API integrations, performance optimization, and real-world product requirements.",
+      "keyAreas": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "Zustand",
+        "Tailwind CSS",
+        "REST APIs",
+        "Responsive Design",
+        "Performance Optimization",
+        "Reusable Component Design",
+        "PWA Development",
+        "Frontend Architecture"
+      ]
+    },
+
     "media": [
       {
         "name": "GitHub",
@@ -14,21 +61,26 @@
         "link": "https://www.linkedin.com/in/anupam-upadhyay-504a1b208/"
       }
     ],
+
     "companies": [
       {
         "name": "Devnexus Solutions",
+        "role": "Frontend Engineer",
         "term": "May 2025 - January 2026"
       },
       {
         "name": "Mappasaurus",
+        "role": "Frontend Engineer",
         "term": "August 2024 - May 2025"
       },
       {
         "name": "Wijungle",
+        "role": "Frontend Developer",
         "term": "July 2023 - June 2024"
       },
       {
         "name": "VenturePact",
+        "role": "Frontend Developer",
         "term": "Jan 2023 - June 2023"
       }
     ]
@@ -36,28 +88,145 @@
 
   "skills": {
     "frontend": {
-      "languages": ["JavaScript (ES6+)", "HTML5", "CSS3"],
-      "frameworks": ["React.js", "Next.js"],
-      "styling": ["Tailwind CSS", "Responsive Design"],
-      "stateManagement": ["Zustand", "Redux", "Context API"],
-      "uiUxAndAnimation": ["Framer Motion", "Swiper.js", "Figma"],
-      "performanceAndArchitecture": ["Code Splitting", "Lazy Loading", "PWA Development", "Clean Architecture", "Reusable Component Design"]
+      "languages": [
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3"
+      ],
+      "frameworks": [
+        "React.js",
+        "Next.js"
+      ],
+      "styling": [
+        "Tailwind CSS",
+        "Responsive Design"
+      ],
+      "stateManagement": [
+        "Zustand",
+        "Redux",
+        "Context API"
+      ],
+      "uiUxAndAnimation": [
+        "Framer Motion",
+        "Swiper.js",
+        "Figma"
+      ],
+      "performanceAndArchitecture": [
+        "Code Splitting",
+        "Lazy Loading",
+        "PWA Development",
+        "Clean Architecture",
+        "Reusable Component Design",
+        "Performance Optimization",
+        "Scalable Frontend Architecture"
+      ]
     },
+
+    "aiAndProductEngineering": {
+      "aiDevelopment": [
+        "AI APIs (OpenAI, Copilot)",
+        "AI Product Development",
+        "Conversational AI",
+        "Persona-Based AI",
+        "Voice Interaction",
+        "Screenshot-Based AI Interaction"
+      ],
+      "productDevelopment": [
+        "Product Ideation",
+        "Product Architecture",
+        "Feature Development",
+        "User Experience",
+        "Product Iteration",
+        "Responsive Web Applications"
+      ],
+      "product": [
+        "VAK - AI Personal Assistant"
+      ]
+    },
+
     "toolingAndWorkflow": {
-      "buildTools": ["Vite", "Webpack"],
-      "codeQuality": ["ESLint", "Prettier"],
-      "versionControl": ["Git", "GitHub"],
-      "editor": ["VS Code"]
+      "buildTools": [
+        "Vite",
+        "Webpack"
+      ],
+      "codeQuality": [
+        "ESLint",
+        "Prettier"
+      ],
+      "versionControl": [
+        "Git",
+        "GitHub"
+      ],
+      "editor": [
+        "VS Code"
+      ]
     },
+
     "backendAndIntegrations": {
-      "databasesAndAuth": ["Supabase", "Firebase Auth", "Firestore", "Realtime Database"],
-      "apis": ["REST APIs"]
+      "databasesAndAuth": [
+        "Supabase",
+        "Firebase Auth",
+        "Firestore",
+        "Realtime Database"
+      ],
+      "apis": [
+        "REST APIs"
+      ]
     },
+
     "deploymentAndDevOps": {
-      "platforms": ["Vercel", "Netlify", "Render"],
-      "ciCd": ["GitHub Actions"]
+      "platforms": [
+        "Vercel",
+        "Netlify",
+        "Render"
+      ],
+      "ciCd": [
+        "GitHub Actions"
+      ]
     },
-    "otherTools": ["Electron (Desktop Applications)", "Telegram Bot API", "AI APIs (OpenAI, Copilot)"]
+
+    "otherTools": [
+      "Electron (Desktop Applications)",
+      "Telegram Bot API",
+      "AI APIs (OpenAI, Copilot)"
+    ]
+  },
+
+  "product": {
+    "name": "VAK - AI Personal Assistant",
+    "url": "https://vak-psi.vercel.app/",
+    "role": "Founder & Product Engineer",
+    "category": "AI Product",
+    "shortDescription": "VAK is an AI-powered personal assistant built to provide personalized, interactive, and intelligent assistance through a modern conversational experience.",
+    "description": "VAK is a product being built and evolved as an AI-powered personal assistant. It focuses on making AI interactions more personal and accessible through persona-based responses, voice input, screenshot-based interactions, and conversational AI. The product has expanded from a mobile-focused experience into a web platform, with a premium experience designed for extended AI usage.",
+    "keyFeatures": [
+      "AI-Powered Conversations",
+      "Persona-Based Responses",
+      "Voice Input",
+      "Screenshot Interaction",
+      "Personalized AI Experience",
+      "Web Platform",
+      "Premium AI Experience",
+      "Responsive UI"
+    ],
+    "engineeringFocus": [
+      "Frontend Architecture",
+      "AI API Integration",
+      "State Management",
+      "Responsive Design",
+      "Performance Optimization",
+      "Component Architecture",
+      "Product UX",
+      "Continuous Product Iteration"
+    ],
+    "techStack": [
+      "React",
+      "JavaScript",
+      "AI APIs",
+      "State Management",
+      "Responsive Web",
+      "Modern Frontend Architecture"
+    ]
   },
 
   "education": [
